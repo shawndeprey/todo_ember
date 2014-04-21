@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 ruby '2.1.1'
-gem 'bundler', '~> 1.5.3'
+gem 'bundler', '~> 1.6.2'
 gem 'rails', '~> 4.0.3'
 gem 'rake', '~> 10.1.1'
 gem 'unicorn', '~> 4.8.2'
