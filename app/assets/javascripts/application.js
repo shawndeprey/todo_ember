@@ -20,3 +20,6 @@
 // Application
 //= require todo_app
 //= require router
+//
+// Models
+//= require models/todo
