@@ -23,3 +23,6 @@
 //
 // Models
 //= require models/todo
+//
+// Controllers
+//= require controllers/todos_controller
