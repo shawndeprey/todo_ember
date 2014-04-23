@@ -1,5 +1,3 @@
-Stuck On: http://emberjs.com/guides/getting-started/show-only-incomplete-todos/
-
 Questions
 ----------------------------
 - What is the distinction between a local edit and a server edit in Ember?
