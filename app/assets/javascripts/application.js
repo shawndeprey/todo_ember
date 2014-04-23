@@ -27,3 +27,6 @@
 // Controllers
 //= require controllers/todos_controller
 //= require controllers/todo_controller
+//
+// Views
+//= require views/edit_todo_view
