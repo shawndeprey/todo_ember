@@ -1,1 +1,11 @@
-http://emberjs.com/guides/getting-started/accepting-edits/
+Stuck On: http://emberjs.com/guides/getting-started/show-only-incomplete-todos/
+
+Questions
+----------------------------
+- What is the distinction between a local edit and a server edit in Ember?
+    - When and how is a transaction made with the server?
+    - How do you tell an ember model what API endpoints to hit on certain actions and what the parameters should look like?
+- What is the distinction between plural and singular controllers in ember?
+    - How does a view know when to use a singular vs. a plural controller's functionality?
+- How and why is data automatically updated around all data models/scripts/controllers/views/etc?
+- How does {{outlet}} know to render certain templates?
