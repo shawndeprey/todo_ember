@@ -9,3 +9,4 @@ Questions
     - How does a view know when to use a singular vs. a plural controller's functionality?
 - How and why is data automatically updated around all data models/scripts/controllers/views/etc?
 - How does {{outlet}} know to render certain templates?
+- What is the .property('@each.isCompleted') function doing on functions?
